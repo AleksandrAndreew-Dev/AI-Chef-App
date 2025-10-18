@@ -1,0 +1,16 @@
+<html>
+  <body>
+    <script src="https://js.puter.com/v2/"></script>
+    <h3>Result:</h3>
+    <div id="result"></div>
+    <script>
+      async function main() {
+        const response = await puter.ai.chat("2 + 2 = ?", {
+          model: "gpt-5-nano",
+        });
+        console.log(response.message.content);
+      }
+      main();
+    </script>
+  </body>
+</html>
