@@ -21,7 +21,7 @@ export default function Contact() {
 
     { id: 2,
       avatar:
-        "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d87e7230-06f9-4e70-bae1-838a7753d810/d7adzx5-6c81698c-68cd-4119-87aa-1039c7aa537e.png/v1/fill/w_791,h_1010,q_70,strp/clone_trooper_helmet_442nd_siege_battalion_by_historymaker1986_d7adzx5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTMwOCIsInBhdGgiOiIvZi9kODdlNzIzMC0wNmY5LTRlNzAtYmFlMS04MzhhNzc1M2Q4MTAvZDdhZHp4NS02YzgxNjk4Yy02OGNkLTQxMTktODdhYS0xMDM5YzdhYTUzN2UucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qPuG81CWNzJ4hmf52ctanj2JJ2RR07sIzStGwP2v-6w",
+        "url",
 
       firstName: "Tk",
       lastName: "12487EF",
